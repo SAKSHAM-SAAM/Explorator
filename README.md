@@ -17,7 +17,20 @@ Or Refer Release Section for Playable game :
 [Link](https://github.com/SAKSHAM-SAAM/Explorator/releases)
 ## Instructions For Playing the Game :
 ### Developer's Setup :
+<img src="https://img.icons8.com/dusk/64/000000/processor.png"/> <b>Processor</b> : Intel i5- 10th gen Cometlake H-series
 
+<img src="https://img.icons8.com/plasticine/50/000000/computer-ram.png"/> <b>RAM </b>- 16 GB
+
+<img src="https://img.icons8.com/color/48/000000/nvidia-geforce.png"/> <b>GPU </b>- Nvidia RTX 2060 GB
+
+### Instructions: 
+
+<ol>
+  <li>Right click to pick and place items .</li>
+  <li>W A S D - keys map to player movement </li>
+  <li>Each gate in game is related to a trigger.</li>
+  <li>Every trigger will work only above a certain weight placed on it.</li>
+</ol>
 
 ## Screen-Shot:
 <em>Entrance Gardens : </em>
