@@ -58,8 +58,8 @@ Or Refer Release Section for Playable game :
 <img src="https://github.com/SAKSHAM-SAAM/Explorator/blob/main/Images/Ending.PNG" width="600" height="400" alt="last area">
 
 ## License :
-Unreal icon and Unreal engine are registered trademark of Epic Game Store. All rights belong to respective Organisations and Artists. I take no owner-ship except assets designed by me,
-using open-licence software Blender [GNU open Licence]() which have been specified wherever required.
+Unreal icon and Unreal engine are registered trademark of Epic Games Store. All rights belong to respective Organisations and Artists. I take no owner-ship except of assets designed by me,
+using open-licence software Blender [GNU open Licence](https://www.blender.org/about/license/) which have been specified wherever required.
 ## External Dependency :
 #### Asset required >
 <ol>
